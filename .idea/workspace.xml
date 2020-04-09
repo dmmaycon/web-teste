@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586377199974</updated>
       <workItem from="1586377201433" duration="13013000" />
-      <workItem from="1586397124504" duration="286000" />
+      <workItem from="1586397124504" duration="778000" />
     </task>
     <servers />
   </component>
@@ -89,6 +89,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="205" key="#Project_Structure/276.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1586382421364" />
+    <state x="749" y="1340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586398305778">
+      <screen x="276" y="1080" width="1440" height="900" />
+    </state>
+    <state x="749" y="1340" key="#com.intellij.fileTypes.FileTypeChooser/276.1080.1440.900/0.0.1920.1080@276.1080.1440.900" timestamp="1586398305778" />
     <state x="773" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1586377487640">
       <screen x="0" y="23" width="1920" height="1001" />
     </state>
